@@ -1,4 +1,4 @@
-# 📚 Study Tracker Pro
+# 📚 Leetcode Study Tracker Pro
 
 A comprehensive study application that combines LeetCode problem tracking with flashcard functionality, designed to help you ace your coding interviews and master programming concepts.
 
